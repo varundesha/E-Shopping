@@ -1,0 +1,45 @@
+#center1{
+  cursor: default;
+}
+.ek1{
+  background-color: #A8A8A8;
+  font-family: 'Rubik', sans-serif;
+}
+.only{
+  background-color:#E8E8E8;
+  border-radius: 15px;
+  width: 410px;
+  height: 360px;
+}
+label{
+  padding-right: 160px;
+}
+#button1{
+  border-radius: 10px;
+  height:32px;
+  width: 250px;
+}
+#button2{
+  border-radius: 10px;
+  height:32px;
+  width: 250px;
+}
+#password{
+  padding-right: 170px;
+}
+
+
+.ek{
+  background-color: #A8A8A8;
+  font-family: 'Rubik', sans-serif;
+}
+.background{
+  background-color:#000000;;
+  font-family: 'Rubik', sans-serif;
+}
+.bod{
+  background-color: #121212;
+}
+.simple{
+  padding-right: 50px;
+}
